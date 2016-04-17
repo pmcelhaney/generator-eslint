@@ -19,7 +19,7 @@ The Yeoman generator currently supports the following commands:
 
 ### eslint:plugin
 
-If you want to create a new ESLint plugin, make sure you're in the top-level directory where you want the plugin to be created and type:
+If you want to create a new ESLint plugin, make sure you have Yeoman installed and you're in the top-level directory where you want the plugin to be created and type:
 
 ```
 $ yo eslint:plugin
